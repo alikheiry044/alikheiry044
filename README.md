@@ -21,6 +21,7 @@ I'm also interested in AI, Computer Vision and backend development.
 | [Flipkart-Mobile-Sales-Analysis](https://github.com/alikheiry044/-Flipkart-Mobile-Sales-Analysis) | [one-line description] | Python |
 | [PubsBOOk](https://github.com/alikheiry044/PubsBOOk) | [one-line description of the SQL work] | T-SQL |
   [Honey Gelobal](https://github.com/alikheiry044/HoneyGlobal)  | Global [COMMODITY] Production & Trade Dashboard | POWER BI|
+  [Netflix](https://github.com/alikheiry044/-Netflix-Content-Analysis)|🎬 Netflix Content Analysis | python,pandas,matplatlib|
 
 ## 📫 Contact
 

@@ -12,7 +12,7 @@ I'm also interested in AI, Computer Vision and backend development.
 - **ML / CV:** Scikit-learn, OpenCV, MediaPipe
 - **Backend:** FastAPI
 
-## 📊 Featured Projects
+## 📊 Data Analyst  Projects
 
 | Project | What it does | Tools |
 |---|---|---|

@@ -19,11 +19,12 @@ I'm also interested in AI, Computer Vision and backend development.
 | [Solar-plant-analysis](https://github.com/alikheiry044/Solar-plant-analysis) | Solar power plant data analysis: EDA and anomaly detection | Python, Jupyter |
 | [Online-Retail-PowerBI-Dashboard](https://github.com/alikheiry044/Online-Retail-PowerBI-Dashboard) | Retail sales dashboard: [KPIs, payment methods, monthly trends] | Power BI, DAX |
 | [online-retail](https://github.com/alikheiry044/online-retail) | [one-line description of the analysis] | Python, Pandas, Jupyter |
-| [management-dashboard](https://github.com/alikheiry044/management-dashboard) | [one-line description] | Python |
+|
 | [Flipkart-Mobile-Sales-Analysis](https://github.com/alikheiry044/-Flipkart-Mobile-Sales-Analysis) | [one-line description] | Python |
 | [PubsBOOk](https://github.com/alikheiry044/PubsBOOk) | [one-line description of the SQL work] | T-SQL |
 
 ## 📫 Contact
 
-- LinkedIn: [your-link]
-- Email: [your-email]
+- LinkedIn: [https://www.linkedin.com/in/ali-kheiry-1b89b0237/?isSelfProfile=true]
+- Email: [ alikhaire11@gmail.com]
+- Email:[]

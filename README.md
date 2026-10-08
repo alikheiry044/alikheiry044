@@ -20,7 +20,7 @@ I'm also interested in AI, Computer Vision and backend development.
 | [online-retail](https://github.com/alikheiry044/online-retail) | [one-line description of the analysis] | Python, Pandas, Sql,Power Bi |
 | [Flipkart-Mobile-Sales-Analysis](https://github.com/alikheiry044/-Flipkart-Mobile-Sales-Analysis) | [one-line description] | Python |
 | [PubsBOOk](https://github.com/alikheiry044/PubsBOOk) | [one-line description of the SQL work] | T-SQL |
-  [Honey Gelobal](https://github.com/alikheiry044/HoneyGlobal)
+  [Honey Gelobal](https://github.com/alikheiry044/HoneyGlobal)  |  | POWER BI|
 
 ## 📫 Contact
 

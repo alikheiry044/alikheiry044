@@ -28,7 +28,16 @@ I'm also interested in AI, Computer Vision and backend development.
 | Project | What it does | Tools |
 |---|---|---|
 | [school-ai-api]() | [one-line description of what the API does] | Python, FastAPI |
-| [fastapi-dashboard]() | [one-line description of the dashboard] | Python, FastAPI, [HTML/JS/...] |
+| [fastapi-dashboard]() | [https://github.com/alikheiry044/management-dashboard] | Python, FastAPI, [HTML/JS/...] |
+
+
+
+## 👁 Computer Vision Projects
+
+| Project | What it does | Tools |
+|---|---|---|
+| [drowsiness-detection]() | [one-line description] | Python, OpenCV, [MediaPipe] |
+
 
 
 

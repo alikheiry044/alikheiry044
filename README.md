@@ -23,8 +23,13 @@ I'm also interested in AI, Computer Vision and backend development.
   [Honey Gelobal](https://github.com/alikheiry044/HoneyGlobal)  | Global [COMMODITY] Production & Trade Dashboard | POWER BI|
   [Netflix](https://github.com/alikheiry044/-Netflix-Content-Analysis)|🎬 Netflix Content Analysis | python,pandas,matplatlib|
 
+  ## ⚡ FastAPI Projects
 
-FastAPI
+| Project | What it does | Tools |
+|---|---|---|
+| [school-ai-api]() | [one-line description of what the API does] | Python, FastAPI |
+| [fastapi-dashboard]() | [one-line description of the dashboard] | Python, FastAPI, [HTML/JS/...] |
+
 
 
 

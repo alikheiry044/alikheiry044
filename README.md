@@ -27,7 +27,7 @@ I'm also interested in AI, Computer Vision and backend development.
 
 | Project | What it does | Tools |
 |---|---|---|
-| [school-ai-api]() | [one-line description of what the API does] | Python, FastAPI |
+| [school-ai-api]() | [https://github.com/alikheiry044/Agntic_School] | Python, FastAPI |
 | [fastapi-dashboard]() | [https://github.com/alikheiry044/management-dashboard] | Python, FastAPI, [HTML/JS/...] |
 
 

@@ -1,7 +1,7 @@
 
 # Hi, I'm Ali 👋
 
-**Junior Data Analyst | Python Developer**
+*| Python Developer**
 
 I build practical data projects with Python, SQL, Pandas and Power BI.
 I'm also interested in AI, Computer Vision and backend development.

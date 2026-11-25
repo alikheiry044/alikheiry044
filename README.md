@@ -37,7 +37,7 @@ I'm also interested in AI, Computer Vision and backend development.
 
 | Project | What it does | Tools |
 |---|---|---|
-| [drowsiness-detection]() | [one-line description] | Python, OpenCV, [MediaPipe] |
+| [drowsiness-detection]() | [https://github.com/alikheiry044/car-counter] | Python, OpenCV,  |
 
 
 

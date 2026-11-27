@@ -38,7 +38,7 @@ I'm also interested in AI, Computer Vision and backend development.
 | Project | What it does | Tools |
 |---|---|---|
 | [Car count]() | [https://github.com/alikheiry044/car-counter] | Python, OpenCV,  |
-|  [Img Lab]    |  [https://github.com/alikheiry044/image-lab]   | python,OpenCV,   |
+|  Img_Lab    |  [https://github.com/alikheiry044/image-lab]   | python,OpenCV,   |
 
 
 
